@@ -1,2 +1,2 @@
 # zipkin-kafka-elastic
-Dockerized Zipkin+Elasticsearch+Bitnami/Kafka stack
+Kuberized Zipkin+Elasticsearch+Bitnami/Kafka stack
